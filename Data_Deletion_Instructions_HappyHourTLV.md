@@ -1,4 +1,4 @@
-# Data Deletion Instructions
+# Happy Hour TLV - Data Deletion Instructions
 
 At **Happy Hour TLV**, we are committed to protecting your privacy and ensuring that you have full control over your data.
 
